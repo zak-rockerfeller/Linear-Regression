@@ -19,3 +19,8 @@ In this notebook, we use an advertising dataset to predict the sales of TVs, Rad
 <h3>Output</h3>
 
 ![lr_output](https://user-images.githubusercontent.com/55271909/160237691-3702ae19-7ad1-40aa-af71-8d1beea8c3da.png)
+
+
+<h3>Conclusion</h3>
+
+The linear regression model did not perform as well as expected. To improve the model, we can use more data. The advertising dataset contains 200 records only. Another way of improving the model is to add artificial neural networks.
