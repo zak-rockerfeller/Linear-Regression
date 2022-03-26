@@ -9,9 +9,7 @@ These regression estimates are used to explain the relationship between one depe
 Three major uses for regression analysis are:</n>
 
 <b>1.</b>Determining the strength of predictors.</n>
-
 <b>2.</b> Forecasting an effect. </n>
-
 <b>3.</b> Trend forecasting.</n>
 
 In this notebook, we use an advertising dataset to predict the sales of TVs, Radios and Newspapers.
